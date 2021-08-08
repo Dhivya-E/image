@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    background-color: rgb(221, 208, 196);
+}
+h1{
+    color: rgba(20, 68, 201, 0.829);
+    
+}
+img{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    border: 5px solid rgb(46, 141, 133);
+}
